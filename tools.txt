@@ -1,0 +1,6 @@
+# External tools (install via OS package manager)
+sqlmap
+curl
+jq
+gobuster
+# Optionally: burpsuite (for proxying), zaproxy
